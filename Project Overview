@@ -1,0 +1,40 @@
+--Data Cleaning in Excel--
+
+Step 1: Check for duplicate rows:
+  i) Select table
+  ii) Click Data Tab
+  iii) Click Remove Duplicates
+  iv) Tick all the check boxes
+
+Step 2: Data Standardization
+a) Capital/lower letters:
+    i) Add new column
+    ii) use function PROPER() to change all text in proper forms
+b) Spelling check:
+    i) Select table
+    ii) Click Data Tab
+    iii) Click Filter to filter every column and check spelling errors
+    iv) Fix the error
+c) Removing spaces:
+    i) Add new column
+    ii) use TRIMN() to trim out unnecessary spaces between text
+d) Date Format:
+     i) Select table
+    ii) Click Data Tab, Text to Column, Next (2x), column data format, select Date, then select format (date format), select destination
+e) Currency format check:
+    i) change every currency format for number type data to integer format
+
+Step 3: Indentify other issue (final check)
+
+Step 4: Copy the formatted value and paste values in original columns
+
+Step 5: Remove Unwanted columns
+
+
+
+--Dashboard Overview--
+
+
+
+
+  
