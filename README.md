@@ -18,7 +18,7 @@ b) Spelling check:
     iv) Fix the error
 c) Removing spaces:
     i) Add new column
-    ii) use TRIMN() to trim out unnecessary spaces between text
+    ii) use TRIM() to trim out unnecessary spaces between text
 d) Date Format:
      i) Select table
     ii) Click Data Tab, Text to Column, Next (2x), column data format, select Date, then select format (date format), select destination
