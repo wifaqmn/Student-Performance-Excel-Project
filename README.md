@@ -42,7 +42,7 @@ Step 6: Remove Unwanted columns (eg: Formula columns)
 
 --DASHBOARD OVERVIEW--
 
-- The dashboard is visualized using Power BI.
+- The dashboard is visualized in Excel.
 - The dashboard consist of various charts to visual the effect of study time, outside class activities, absent days, tutor involvement and parental supports on student grade.
 - It also contains comparison of student grades based on gender roles.
 - We can filter out student age, ethnicity and parental education through slicers to see in-depth about the student performance information.
