@@ -1,4 +1,5 @@
---Data Cleaning in Excel--
+--DATA CLEANING IN EXCEL--
+
 
 Step 1: Check for duplicate rows:
   i) Select table
@@ -24,15 +25,29 @@ d) Date Format:
 e) Currency format check:
     i) change every currency format for number type data to integer format
 
-Step 3: Indentify other issue (final check)
+Step 3: Categorizing Data
+    i) Caterigorizing 'Study Time Weekly' & 'Absences' columns by adding new categorized columns using IF() functions.
+    ii) This step will ease for data visualization.
 
-Step 4: Copy the formatted value and paste values in original columns
+Step 4: Change column values based on Dataset Info Provided. 
+    - The raw data for some column is in numerical which difficult for stakeholders to understand.
+    - Therefore, we need to change the values to more readable values based on Dataset Info provided.
 
-Step 5: Remove Unwanted columns
+Step 5: Copy the formatted value and paste values in original columns
+
+Step 6: Remove Unwanted columns
 
 
 
---Dashboard Overview--
+
+--DASHBOARD OVERVIEW--
+
+
+- The dashboard consist of vaarious charts to visual the effect of study time, outside class activities, absent days, tutor involvement and parental supports on student grade.
+- Its also contains comparison of student grades based on gender roles.
+- We can filter out student age, ethnicity and parental education through sliders created to see in deepth student performance information.
+
+
 
 
 
