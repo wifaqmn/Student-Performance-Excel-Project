@@ -1,3 +1,8 @@
+--PROJECT OVERVIEW--
+
+In this project, we analysed the influence of study time, outside class activities, absent days, tutor involvement and parental supports on student grade so that the school management & parents can take neccesary actions to improve student score. We also compare the student based on the gender roles to observe which gender perform wll in exam. The visualization consist of various charts to oversee the student performance so that they can tackle the issue effectively.
+
+
 --DATA CLEANING IN EXCEL--
 
 
