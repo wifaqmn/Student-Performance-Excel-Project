@@ -7,28 +7,28 @@ In this project, we analysed the influence of study time, outside class activiti
 
 
 Step 1: Check for duplicate rows:
-  i) Select table
-  ii) Click Data Tab
-  iii) Click Remove Duplicates
-  iv) Tick all the check boxes
+i) Select table
+ii) Click Data Tab
+ iii) Click Remove Duplicates
+iv) Tick all the check boxes
 
 Step 2: Data Standardization
 a) Capital/lower letters:
-    i) Add new column
-    ii) use function PROPER() to change all text in proper forms
+i) Add new column
+ii) use function PROPER() to change all text in proper forms
 b) Spelling check:
-    i) Select table
-    ii) Click Data Tab
-    iii) Click Filter to filter every column and check spelling errors
-    iv) Fix the error
+i) Select table
+ii) Click Data Tab
+iii) Click Filter to filter every column and check spelling errors
+iv) Fix the error
 c) Removing spaces:
-    i) Add new column
-    ii) use TRIM() to trim out unnecessary spaces between text
+i) Add new column
+ii) use TRIM() to trim out unnecessary spaces between text
 d) Date Format:
-     i) Select table
-    ii) Click Data Tab, Text to Column, Next (2x), column data format, select Date, then select format (date format), select destination
+i) Select table
+ii) Click Data Tab, Text to Column, Next (2x), column data format, select Date, then select format (date format), select destination
 e) Currency format check:
-    i) change every currency format for number type data to integer format
+i) change every currency format for number type data to integer format
 
 Step 3: Categorizing Data
     i) Caterigorizing 'Study Time Weekly' & 'Absences' columns by adding new categorized columns using IF() functions.
